@@ -1,12 +1,1 @@
-## Welcome to the Innovator Island workshop!
-
-For workshop instructions, visit the [workshop's new instructions site](https://www.eventbox.dev/published/lesson/innovator-island/)
-
-### Have an idea for this workshop? Found a bug? ###
-
-If you have an idea for a module or feature in this workshop, or you have found a bug or need to report a problem, let us know!
-
-- [Request a feature](https://github.com/aws-samples/aws-serverless-workshop-innovator-island/issues/new?assignees=&labels=&template=workshop-feature-request.md&title=)
-- [Report an issue](https://github.com/aws-samples/aws-serverless-workshop-innovator-island/issues/new?assignees=&labels=&template=bug_report.md&title=)
-
-Contact the author [@jbesw](https://twitter.com/jbesw) for any additional help or support requests.
+I build a complete serverless web application for a popular theme park called Innovator Island. The theme park is rolling out a mobile app that provides thousands of visitors with wait times, photo opportunities, notification alerts, and language translation for visitors who need it. In this project, I am building a scalable serverless application with a single-page application (SPA) front-end that delivers a feature-rich user experience. I understand solid understanding of serverless concepts like event-driven computing and real time messaging, as well got practical hands-on experience deploying a serverless mobile front-end and using IoT to send messages to thousands of users in real time.
